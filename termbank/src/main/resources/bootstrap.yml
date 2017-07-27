@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: termbank
+  cloud:
+    config:
+      uri: http://172.23.238.152:8878
+ 
+   
+   
+   
